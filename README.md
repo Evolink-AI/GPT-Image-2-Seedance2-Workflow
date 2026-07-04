@@ -28,6 +28,8 @@
 
 Use this workflow as the bridge from GPT Image 2 image generation to Seedance 2.0 video generation:
 
+R2-hosted local video assets: [VIDEO_ASSETS.md](VIDEO_ASSETS.md)
+
 <p align="center">
   <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=GPT-Image-2-Seedance-2.5-Workflow"><strong>GPT Image 2</strong></a> &nbsp;·&nbsp;
   <a href="https://evolink.ai/launch/seedance-2-5?utm_source=github&utm_medium=readme&utm_campaign=GPT-Image-2-Seedance-2.5-Workflow"><strong>Seedance 2.5 Early Access</strong></a> &nbsp;·&nbsp;
