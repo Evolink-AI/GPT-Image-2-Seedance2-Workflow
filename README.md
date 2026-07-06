@@ -34,7 +34,7 @@ R2-hosted local video assets: [VIDEO_ASSETS.md](VIDEO_ASSETS.md)
   <a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=GPT-Image-2-Seedance-2.5-Workflow"><strong>GPT Image 2</strong></a> &nbsp;·&nbsp;
   <a href="https://evolink.ai/launch/seedance-2-5?utm_source=github&utm_medium=readme&utm_campaign=GPT-Image-2-Seedance-2.5-Workflow"><strong>Seedance 2.5 Early Access</strong></a> &nbsp;·&nbsp;
   <a href="https://docs.evolink.ai?utm_source=github&utm_medium=readme&utm_campaign=GPT-Image-2-Seedance-2.5-Workflow"><strong>Docs</strong></a> &nbsp;·&nbsp;
-  <a href="https://evolink.ai/signup?utm_source=github&utm_medium=readme&utm_campaign=GPT-Image-2-Seedance-2.5-Workflow"><strong>API Key</strong></a> &nbsp;·&nbsp;
+  <a href="https://evolink.ai/dashboard/keys?utm_source=github&utm_medium=readme&utm_campaign=GPT-Image-2-Seedance-2.5-Workflow&utm_content=api_key"><strong>API Key</strong></a> &nbsp;·&nbsp;
   <a href="https://github.com/EvoLinkAI/gpt-image-2-gen-skill"><strong>GPT Image Skill</strong></a> &nbsp;·&nbsp;
   <a href="https://github.com/EvoLinkAI/seedance2-video-gen-skill-for-openclaw"><strong>Seedance Skill</strong></a>
 </p>
@@ -75,7 +75,7 @@ Try it: [GPT Image 2 + Seedance 2.5](https://evolink.ai/launch/seedance-2-5?utm_
 - [Seedance 2 Video Gen Skill](https://github.com/EvoLinkAI/seedance2-video-gen-skill-for-openclaw) adds Seedance 2 video generation to your agent
 - [Open GPT Image 2 prompts on EvoLink](https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=readme&utm_campaign=GPT-Image-2-Seedance-2.5-Workflow)
 - [Get Seedance 2.5 Early Access](https://evolink.ai/launch/seedance-2-5?utm_source=github&utm_medium=readme&utm_campaign=GPT-Image-2-Seedance-2.5-Workflow)
-- [Get your EvoLink API key](https://evolink.ai/signup?utm_source=github&utm_medium=readme&utm_campaign=GPT-Image-2-Seedance-2.5-Workflow)
+- [Get your EvoLink API key](https://evolink.ai/dashboard/keys?utm_source=github&utm_medium=readme&utm_campaign=GPT-Image-2-Seedance-2.5-Workflow&utm_content=api_key)
 - [Go to Seedance 2.0 API examples](https://github.com/EvoLinkAI/Seedance-2.5-Gateway-Service)
 
 ### Install the Skills
@@ -412,7 +412,7 @@ Smooth app UI transition animation, screen tap interaction, natural interface mo
 ```
 
 > [!NOTE]
-> **Replace the placeholders in brackets before use.** In your video caption, do not label it as AI-generated — post it as a product demo and observe real audience feedback in the comments.
+> **Customize the bracketed fields before use.** In your video caption, do not label it as AI-generated — post it as a product demo and observe real audience feedback in the comments.
 
 
 <!-- Case 6: 15-Second Commercial (by @ai_mitosan) -->
@@ -2263,7 +2263,7 @@ Step 2: Click "Generate Video" → Seedance 2.0 receives the image automatically
 Step 3: Add your Seedance prompt → generate
 ```
 
-<a href='https://evolink.ai/signup?utm_source=github&utm_medium=readme&utm_campaign=gptimage2-x-seedance2'><img src='https://img.shields.io/badge/🚀 Get%20Started-Evolink-black' height="25"></a>
+<a href='https://evolink.ai/dashboard/keys?utm_source=github&utm_medium=readme&utm_campaign=gptimage2-x-seedance2&utm_content=api_key'><img src='https://img.shields.io/badge/🚀 API%20Key-Evolink-orange' height="25"></a>
 
 
 ## 🙏 Acknowledge

@@ -2234,7 +2234,7 @@ Step 2: Click "Generate Video" → Seedance 2.0 receives the image automatically
 Step 3: Add your Seedance prompt → generate
 ```
 
-<a href='https://evolink.ai/signup?utm_source=github&utm_medium=readme&utm_campaign=gptimage2-x-seedance2'><img src='https://img.shields.io/badge/🚀 Get%20Started-Evolink-black' height="25"></a>
+<a href='https://evolink.ai/dashboard/keys?utm_source=github&utm_medium=readme&utm_campaign=gptimage2-x-seedance2&utm_content=api_key'><img src='https://img.shields.io/badge/🚀 API%20Key-Evolink-orange' height="25"></a>
 
 
 ## 🙏 Agradecimientos

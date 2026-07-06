@@ -385,7 +385,7 @@ Smooth app UI transition animation, screen tap interaction, natural interface mo
 ```
 
 > [!NOTE]
-> **Substitua os placeholders entre colchetes antes de usar.** Na legenda do vídeo, não o identifique como gerado por IA — publique como demo de produto e observe o feedback real do público nos comentários.
+> **Ajuste os campos entre colchetes antes de usar.** Na legenda do vídeo, não o identifique como gerado por IA — publique como demo de produto e observe o feedback real do público nos comentários.
 
 
 <!-- Case 6: 15-Second Commercial (by @ai_mitosan) -->
@@ -2216,7 +2216,7 @@ Step 2: Click "Generate Video" → Seedance 2.0 receives the image automatically
 Step 3: Add your Seedance prompt → generate
 ```
 
-<a href='https://evolink.ai/signup?utm_source=github&utm_medium=readme&utm_campaign=gptimage2-x-seedance2'><img src='https://img.shields.io/badge/🚀 Get%20Started-Evolink-black' height="25"></a>
+<a href='https://evolink.ai/dashboard/keys?utm_source=github&utm_medium=readme&utm_campaign=gptimage2-x-seedance2&utm_content=api_key'><img src='https://img.shields.io/badge/🚀 API%20Key-Evolink-orange' height="25"></a>
 
 
 ## 🙏 Agradecimentos
