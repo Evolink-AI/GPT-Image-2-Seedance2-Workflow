@@ -3,10 +3,10 @@
 <a href="https://evolink.ai/launch/seedance-2-5?utm_source=github&utm_medium=banner&utm_campaign=GPT-Image-2-Seedance-2.5-Workflow"><img src="images/logo.png" alt="GPT Image 2 × Seedance 2.5 Workflow-Leitfaden"></a>
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
-[![awesome-seedance-2.5-prompts](https://img.shields.io/badge/📦_awesome--seedance--2.5--prompts-181717?logo=github)](https://github.com/EvoLinkAI/awesome-seedance-2.5-prompts)
-[![Seedance-2.5-Gateway-Service](https://img.shields.io/badge/📦_Seedance--2.5--Gateway--Service-181717?logo=github)](https://github.com/EvoLinkAI/Seedance-2.5-Gateway-Service)
-[![awesome-seedance-2.5-guide](https://img.shields.io/badge/📦_awesome--seedance--2.5--guide-181717?logo=github)](https://github.com/EvoLinkAI/awesome-seedance-2.5-guide)
-[![awesome-gpt-image-2-prompts](https://img.shields.io/badge/📦_awesome--gpt--image--2--prompts-181717?logo=github)](https://github.com/EvoLinkAI/awesome-gpt-image-2-prompts)
+[![awesome-seedance-2.5-prompts](https://img.shields.io/badge/📦_awesome--seedance--2.5--prompts-181717?logo=github)](https://github.com/Evolink-AI/awesome-seedance-2.0-prompts)
+[![Seedance-2.5-Gateway-Service](https://img.shields.io/badge/📦_Seedance--2.5--Gateway--Service-181717?logo=github)](https://github.com/Evolink-AI/Seedance-2.0-Gateway-Service)
+[![awesome-seedance-2.5-guide](https://img.shields.io/badge/📦_awesome--seedance--2.5--guide-181717?logo=github)](https://github.com/Evolink-AI/awesome-seedance-2.5-guide)
+[![awesome-gpt-image-2-prompts](https://img.shields.io/badge/📦_awesome--gpt--image--2--prompts-181717?logo=github)](https://github.com/Evolink-AI/GPT-Image-2-Seedance2-Workflow)
 
 
 [![🇺🇸 English](https://img.shields.io/badge/🇺🇸_English-Default_Source-111111)](README.md)
@@ -42,8 +42,8 @@ Teste es: [GPT Image 2 + Seedance 2.5](https://evolink.ai/launch/seedance-2-5?ut
 
 ### Schnellstart
 
-- [GPT Image 2 Gen Skill](https://github.com/EvoLinkAI/gpt-image-2-gen-skill) erweitert deinen Agenten um GPT Image 2 Bildgenerierung und Bearbeitung
-- [Seedance 2 Video Gen Skill](https://github.com/EvoLinkAI/seedance2-video-gen-skill-for-openclaw) erweitert deinen Agenten um Seedance 2 Videogenerierung
+- [GPT Image 2 Gen Skill](https://github.com/Evolink-AI/GPT-Image-2-Seedance2-Workflow) erweitert deinen Agenten um GPT Image 2 Bildgenerierung und Bearbeitung
+- [Seedance 2 Video Gen Skill](https://github.com/Evolink-AI/Seedance-2.0-Gateway-Service) erweitert deinen Agenten um Seedance 2 Videogenerierung
 
 ### Schnellinstallation
 
@@ -218,8 +218,8 @@ turn this image into video
 
 <table><tr>
 <td align="center"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/storyboard_case10/input.jpg" width="280" alt="GPT Image 2 Multi-Frame Storyboard"></a></td>
-<td align="center"><video src="https://github.com/user-attachments/assets/4d7af334-4e49-4de4-899e-803f72116c21" width="280" controls></video></td>
-<td align="center"><video src="https://github.com/user-attachments/assets/5def7e00-6fc6-4a4e-8075-5f37cb24b84c" width="280" controls></video></td>
+<td align="center"><em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em></td>
+<td align="center"><em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em></td>
 </tr></table>
 
 **Schritte:**
@@ -268,7 +268,7 @@ Ein produktionsorientierter Ansatz: Iteriere zuerst am Storyboard in GPT Image 2
 
 <table><tr>
 <td align="center"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/storyboard_case19/output.jpg" width="400" alt="Storyboard-first Workflow Output"></a></td>
-<td align="center"><video src="https://github.com/user-attachments/assets/09e04d80-c0d1-4a8c-9b74-2efe474acfcd" width="400" controls></video></td>
+<td align="center"><em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em></td>
 </tr></table>
 
 **Schritte:**
@@ -434,7 +434,7 @@ Erzeuge mit GPT Image 2 ein 3×4-Storyboard-Grid (12 Frames) für eine Luxus-Par
 
 <table><tr>
 <td align="center"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/luxury_case15/output.jpg" width="400" alt="Luxus-Werbespot Storyboard"></a></td>
-<td align="center"><video src="https://github.com/user-attachments/assets/281fef1e-f42d-442c-b06e-44d7cff221ec" width="400" controls></video></td>
+<td align="center"><em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em></td>
 </tr></table>
 
 **Schritte:**
@@ -467,7 +467,7 @@ Nutze GPT Image 2 + Seedance 2.5, um ultra-realistische Food-Zubereitungsvideos 
 
 <table><tr>
 <td align="center"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/food_case16/input.jpg" width="400" alt="Food-Video Storyboard Input"></a></td>
-<td align="center"><video src="https://github.com/user-attachments/assets/30a20e57-8384-4117-adf7-4f92faebeb33" width="400" controls></video></td>
+<td align="center"><em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em></td>
 </tr></table>
 
 **Schritte:**
@@ -503,7 +503,7 @@ Verwandle statische Produktbilder in aufmerksamkeitsstarke Social-Media-Videos. 
 
 <table><tr>
 <td align="center"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/product_case26/output.jpg" width="400" alt="Produkt-Video-Werbung Output"></a></td>
-<td align="center"><video src="https://github.com/user-attachments/assets/880c0019-e45a-4eb9-be6f-638ff71a0e0f" width="400" controls></video></td>
+<td align="center"><em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em></td>
 </tr></table>
 
 **Schritte:**
@@ -593,7 +593,7 @@ Japanese full-color anime, fast cuts, high frame count, 24fps. Dark fantasy anim
 Nutze Claude Code, um Worldbuilding und Charakter-Lore zu schreiben, übergib dann strukturierte Beschreibungen an GPT Image 2, um das Charakter-Key-Visual zu erzeugen, und animiere es anschließend mit Seedance 2.0. Entwicklerfreundlicher Workflow für die Erstellung eigener IPs. 191 Likes / 7K Aufrufe.
 
 <table><tr>
-<td align="center"><a href="https://evolink.ai/seedance2?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/character_case12/output.jpg" width="400" alt="Claude Code + GPT Image 2 Charakter Key Visual"></a></td>
+<td align="center"><a href="https://evolink.ai/launch/seedance-2-5?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/character_case12/output.jpg" width="400" alt="Claude Code + GPT Image 2 Charakter Key Visual"></a></td>
 </tr></table>
 
 **Schritte:**
@@ -613,7 +613,7 @@ Erzeuge mit GPT Image 2 ein 4×4-Grid mit Tanzposen und gib es Seedance 2.0 als 
 
 <table><tr>
 <td align="center"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/dance_case13/output.jpg" width="400" alt="Tanzsequenz-Grid Output"></a></td>
-<td align="center"><video src="https://github.com/user-attachments/assets/39376245-e7c7-4812-b770-9e81acf4eca2" width="400" controls></video></td>
+<td align="center"><em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em></td>
 </tr></table>
 
 **Schritte:**
@@ -737,7 +737,7 @@ Erstelle mit GPT Image 2 eine mehrteilige Comic-Seite — diagonales Layout, Spr
 </tr></table>
 
 <table><tr>
-<td align="center"><video src="https://github.com/user-attachments/assets/0b5038e2-dfca-4c65-b5d7-a719a74408b0" width="400" controls></video></td>
+<td align="center"><em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em></td>
 </tr></table>
 
 **Schritte:**
@@ -780,7 +780,7 @@ Maximale Kontrolle über Tanzanimation: Schreibe eine 16-Schritte-Choreografie-A
 
 <table><tr>
 
-<td align="center"><video src="https://github.com/user-attachments/assets/1c088b5e-6305-4bf6-9377-97784d5f8fac" width="400" controls></video></td>
+<td align="center"><em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em></td>
 </tr></table>
 
 **Schritte:**
@@ -898,7 +898,7 @@ Erstelle eine Charakter-Vorstellungsanimation im Cyberpunk-AAA-Spielstil. Nimm e
 
 <table><tr>
 <td align="center"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/intro_case27/output.jpg" width="400" alt="Charakter-Intro-Animation Output"></a></td>
-<td align="center"><video src="https://github.com/user-attachments/assets/e52eaa0b-b2fa-4c35-b790-a92af05d0c82" width="400" controls></video></td>
+<td align="center"><em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em></td>
 </tr></table>
 
 **Schritte:**
@@ -1005,7 +1005,7 @@ Nutze GPT Image 2, um einen konsistenten visuellen Stil zu etablieren (Cyberpunk
 Vier-Tool-Pipeline für ein komplettes japanisches Musikvideo: GPT Image 2 für Visuals → Seedance 2.0 für Bewegung → Suno 5.5 für Musik → CapCut für den finalen Schnitt. 742 Likes / 107K Aufrufe.
 
 <table><tr>
-<td align="center"><video src="https://github.com/user-attachments/assets/e5ce621c-7fa3-47b5-99a7-00df7741a651" width="400" controls></video></td>
+<td align="center"><em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em></td>
 </tr></table>
 
 **Schritte:**
@@ -1027,7 +1027,7 @@ Nutze Claude, um eine detaillierte Einstellungsliste zu generieren (15 Ein-Sekun
 
 <table><tr>
 <td align="center"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/shotlist_case20/input.jpg" width="400" alt="Claude Shotlist Musikvideo Output"></a></td>
-<td align="center"><video src="https://github.com/user-attachments/assets/d6ba86c4-65c3-4b1d-aa3c-846667f53b5e" width="400" controls></video></td>
+<td align="center"><em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em></td>
 </tr></table>
 
 **Schritte:**
@@ -1075,7 +1075,7 @@ Nutze GPT Image 2, um Bilder im Spielstil mit UI-Elementen zu erzeugen (HUD-Elem
 
 <table><tr>
 <td align="center"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/game_case9/input.jpg" width="400" alt="Spiel-UI Eingabebild"></a></td>
-<td align="center"><video src="https://github.com/user-attachments/assets/3d5d7525-b469-4c3b-aab9-68dc47630fdd" width="400" controls></video></td>
+<td align="center"><em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em></td>
 </tr></table>
 
 **Schritte:**
@@ -1105,7 +1105,7 @@ Nutze GPT Image 2, um Bilder im Spielstil mit UI-Elementen zu erzeugen (HUD-Elem
 One Piece, Stranger Things, jede IP — erzeuge einen Spiel-Screenshot einer Welt, die nicht existiert, und erweitere ihn dann mit Seedance 2.0 zu Live-Gameplay. 934 Likes / 125K Aufrufe.
 
 <table><tr>
-<td align="center"><video src="https://github.com/user-attachments/assets/983b433a-88ea-4843-9047-fc01396752fe" width="400" controls></video></td>
+<td align="center"><em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em></td>
 </tr></table>
 
 **GPT Image 2 Prompt:**
@@ -1127,7 +1127,7 @@ Der viralste Workflow in dieser Sammlung: Erstelle eine komplette Videospiel-Int
 
 <table><tr>
 <td align="center"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/game_case17/output.jpg" width="400" alt="Spiel-Interface-Animation Output"></a></td>
-<td align="center"><video src="https://github.com/user-attachments/assets/b83da8f3-3dd6-44a3-bb27-b0d59cab381a" width="400" controls></video></td>
+<td align="center"><em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em></td>
 </tr></table>
 
 
@@ -1141,7 +1141,7 @@ Der viralste Workflow in dieser Sammlung: Erstelle eine komplette Videospiel-Int
 Erstelle jede beliebige GTA-Version in 5 Minuten. Erzeuge mit GPT Image 2 Spiel-UI-Screenshots in jeder Stadt (Tokio, Lagos, Mumbai) und animiere sie dann mit Seedance 2.0 zu Gameplay-Material. Das Ergebnis sieht aus wie ein echter Spieltrailer für ein Spiel, das nicht existiert. 99 Likes / 8,7K Aufrufe.
 
 <table><tr>
-<td align="center"><video src="https://github.com/user-attachments/assets/d3b0a7b9-827a-47f6-b24e-eabfacf3e892" width="400" controls></video></td>
+<td align="center"><em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em></td>
 </tr></table>
 
 **Schritte:**
@@ -1166,7 +1166,7 @@ Der Null-Aufwand-Ansatz: Sage einem einzelnen KI-Agenten (wie Glif), was du will
 
 <table><tr>
 <td align="center"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/agent_case18/output.jpg" width="400" alt="Single Agent automatisierter Workflow Output"></a></td>
-<td align="center"><video src="https://github.com/user-attachments/assets/cc01849d-ee9b-47af-a7b0-d13250a001e0" width="400" controls></video></td>
+<td align="center"><em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em></td>
 </tr></table>
 
 
@@ -1177,7 +1177,7 @@ Spare Credits, indem du 4 Schauspieler aus einer Generation testest. Erzeuge mit
 
 <table><tr>
 <td align="center"><a href="https://evolink.ai/gpt-image-2-prompts?utm_source=github&utm_medium=picture&utm_campaign=gptimage2-x-seedance2"><img src="images/casting_case21/input.jpg" width="400" alt="Casting-Grid Input"></a></td>
-<td align="center"><video src="https://github.com/user-attachments/assets/dcdd958f-70cd-43f6-b191-4e0715fe2472" width="400" controls></video></td>
+<td align="center"><em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em></td>
 </tr></table>
 
 **Schritte:**
@@ -1349,7 +1349,7 @@ A clean casting audition reel where four actor candidates perform the same line 
 Verbinde traditionelle 3D-Modellierung mit KI-Video: Erstelle ein grobes 3D-Tonmodell in Nomad Sculpt (oder einer anderen Sculpting-App), nutze GPT Image 2, um es in eine polierte Illustration zu rendern, und animiere es dann mit Seedance 2.0 über ComfyUI. Das gibt dir präzise Kontrolle über Pose und Komposition, die reine Text-Prompts nicht erreichen können.
 
 <table><tr>
-<td align="center"><video src="https://github.com/user-attachments/assets/f5ecdb0c-d1ca-4291-91bc-eb88de91cd82" width="400" controls></video></td>
+<td align="center"><em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em></td>
 </tr></table>
 
 **Schritte:**
@@ -1369,22 +1369,22 @@ Eine fortlaufende Momentaufnahme von **GPT Image 2 × Seedance 2.0** Arbeiten, d
 
 <table><tr>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/cd87bc68-5613-410e-8dbe-df656aaa504d" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/abxxai/status/2055636095736709190"><b>@abxxai</b></a> · <sub>80,365 views</sub>
 <br/><sub>You can literally create anything with AI right now.</sub>
 </td>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/fd7dac8a-0984-416d-8632-72ecd3106586" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/pabloprompt/status/2055726656287871478"><b>@pabloprompt</b></a> · <sub>75,035 views</sub>
 <br/><sub>One Piece BTS · PART 2 😍</sub>
 </td>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/6ae8904b-6510-4aa5-ba8f-12ab001669ec" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/maarcoofdezz/status/2057371189207584943"><b>@maarcoofdezz</b></a> · <sub>30,023 views</sub>
 <br/><sub>Just made a full cinematic ad for a luxury mens cologne usi…</sub>
 </td>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/484aa607-4d00-4543-95d0-7838fe7ce0db" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/AIwithAliya/status/2055674114845925710"><b>@AIwithAliya</b></a> · <sub>24,084 views</sub>
 <br/><sub>This looks so neat and clean</sub>
 </td>
@@ -1392,22 +1392,22 @@ Eine fortlaufende Momentaufnahme von **GPT Image 2 × Seedance 2.0** Arbeiten, d
 
 <table><tr>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/0c2f7cf0-f7e1-4f52-b7b7-e53c179fcc0d" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/HeyOz_AI/status/2057871032480825398"><b>@HeyOz_AI</b></a> · <sub>17,459 views</sub>
 <br/><sub>Claude + GPT Image 2 + seedance + Meta ads MCP Replaced my…</sub>
 </td>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/77e02dda-8b51-4654-8af2-1bbb93f822d6" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/Creatify_AI/status/2056431801971999147"><b>@Creatify_AI</b></a> · <sub>16,350 views</sub>
 <br/><sub>Creatify AI agents use the BEST AI models for each process.</sub>
 </td>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/3adf863a-165b-4d3e-bb20-e427cd3ce648" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/MayorKingAI/status/2057933848948965741"><b>@MayorKingAI</b></a> · <sub>14,113 views</sub>
 <br/><sub>I created a steampunk action sequence in a hand-painted 3D…</sub>
 </td>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/800f2bbc-d53b-4075-8e08-b63a2e69c3e3" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/IATheYoker/status/2057402859222933891"><b>@IATheYoker</b></a> · <sub>12,503 views</sub>
 <br/><sub>GPT Image 2 + Seedance 2.5 ya pueden crear intros del Mundi…</sub>
 </td>
@@ -1415,22 +1415,22 @@ Eine fortlaufende Momentaufnahme von **GPT Image 2 × Seedance 2.0** Arbeiten, d
 
 <table><tr>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/008d22d8-9a47-4051-ab60-7743958cc4c8" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/ShamiWeb3/status/2055832098435629466"><b>@ShamiWeb3</b></a> · <sub>9,644 views</sub>
 <br/><sub>A TAPNOW luxury skincare visual in which a glowing beauty m…</sub>
 </td>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/592c1944-d3bf-4db6-b546-f152a836081d" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/GlitterPixely/status/2057903405712953505"><b>@GlitterPixely</b></a> · <sub>8,862 views</sub>
 <br/><sub>Quick character highlight intro with GPT Image 2 + Seedance…</sub>
 </td>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/4467f8e3-192a-4937-95a6-1945122a6d66" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/luche_whitewing/status/2055626188241150350"><b>@luche_whitewing</b></a> · <sub>7,837 views</sub>
 <br/><sub>深夜の美女👠 lovart (@lovart_jp)× 🎬 GPT-image-2 × Seedance 2.0 で作…</sub>
 </td>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/4d6c8938-e4a2-4bf6-ab16-e7a2ed4d8205" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/DoctorAmna11/status/2057108821537861739"><b>@DoctorAmna11</b></a> · <sub>6,903 views</sub>
 <br/><sub>The Ghost Who Couldn’t Scare Anyone</sub>
 </td>
@@ -1438,22 +1438,22 @@ Eine fortlaufende Momentaufnahme von **GPT Image 2 × Seedance 2.0** Arbeiten, d
 
 <table><tr>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/ec26a6f4-f6ca-4a4b-bc68-3c11d818982d" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/I_amShiti/status/2057378173856494070"><b>@I_amShiti</b></a> · <sub>5,830 views</sub>
 <br/><sub>One AI app gives you access to👇</sub>
 </td>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/f7323047-0d46-4cba-945f-e8199a837787" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/eijo_AIart/status/2056935787581898972"><b>@eijo_AIart</b></a> · <sub>5,028 views</sub>
 <br/><sub>PolloAI GPT-Image2 x Seedance2で、映画製作用ストーリーボードを使った、ショートフィルム制…</sub>
 </td>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/01aa8296-2c8c-4c99-a915-2bbdc9232125" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/aziz4ai/status/2057824424838004836"><b>@aziz4ai</b></a> · <sub>4,885 views</sub>
 <br/><sub>JADE FALCON: AWAKENING</sub>
 </td>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/70eea8b8-d3fa-4555-9c60-52ed8bed4711" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/opener_ai/status/2055627299429777684"><b>@opener_ai</b></a> · <sub>4,353 views</sub>
 <br/><sub>Gpt image 2 x Seedance 2.0 @dreamina_ai</sub>
 </td>
@@ -1461,22 +1461,22 @@ Eine fortlaufende Momentaufnahme von **GPT Image 2 × Seedance 2.0** Arbeiten, d
 
 <table><tr>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/014d3a33-b68a-4977-8f72-a239b65a835c" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/spect3ral/status/2057871834310148242"><b>@spect3ral</b></a> · <sub>4,319 views</sub>
 <br/><sub>Claude + GPT Image 2 + Seedance + Meta Ads MCP</sub>
 </td>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/2f8d430d-fd0f-4d1b-9c74-92f85fa466b2" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/mdmadeit/status/2055685500279697883"><b>@mdmadeit</b></a> · <sub>3,970 views</sub>
 <br/><sub>made a full 1:25 anime short</sub>
 </td>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/ea9bbdfd-a5b1-4e85-a886-362362f6e3cb" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/Strength04_X/status/2055849751317524982"><b>@Strength04_X</b></a> · <sub>3,737 views</sub>
 <br/><sub>Created this cinematic sushi 🍣storyboard with GPT Image 2 +…</sub>
 </td>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/595b4af8-ece2-4cca-98df-982721e685bd" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/jasminekhan90_/status/2057399215228322261"><b>@jasminekhan90_</b></a> · <sub>3,418 views</sub>
 <br/><sub>Human connection still matters in an AI future.</sub>
 </td>
@@ -1484,22 +1484,22 @@ Eine fortlaufende Momentaufnahme von **GPT Image 2 × Seedance 2.0** Arbeiten, d
 
 <table><tr>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/6e646b59-7485-470d-af4e-de983dda6b12" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/Sogni_Protocol/status/2057822871817191549"><b>@Sogni_Protocol</b></a> · <sub>3,342 views</sub>
 <br/><sub>There’s no better combo on the market right now than GPT Im…</sub>
 </td>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/28bb17d7-6fc0-4f94-8716-8b5871a290ea" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/noorlewisx/status/2055863201389240369"><b>@noorlewisx</b></a> · <sub>2,974 views</sub>
 <br/><sub>Made with Seedance 2 + GPT Image 2</sub>
 </td>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/b265ac7b-fb01-4e4c-954c-f4ab748f7fc4" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/markgadala/status/2055896597662228650"><b>@markgadala</b></a> · <sub>2,876 views</sub>
 <br/><sub>AI makes creating Pixar quality animations so incredibly ea…</sub>
 </td>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/f4c4152c-15d0-404b-8040-f86d54ecbc28" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/SocialSight/status/2057334346223177973"><b>@SocialSight</b></a> · <sub>2,720 views</sub>
 <br/><sub>did you get the news?</sub>
 </td>
@@ -1507,22 +1507,22 @@ Eine fortlaufende Momentaufnahme von **GPT Image 2 × Seedance 2.0** Arbeiten, d
 
 <table><tr>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/4ba27b9b-0431-419e-90fe-6a25816979c5" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/hanifproduktif/status/2055828657172820269"><b>@hanifproduktif</b></a> · <sub>2,595 views</sub>
 <br/><sub>Replaced (GPT Image 2 + Seedance 2.5)</sub>
 </td>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/11375c25-a923-44a1-a8a4-8d04acecab31" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/adrianaia_/status/2057474538594607520"><b>@adrianaia_</b></a> · <sub>2,382 views</sub>
 <br/><sub>De las calles frías a un salón de clases lleno de amor.</sub>
 </td>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/0dd27e90-469f-4ee8-aebb-3f3afbf2d8f2" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/itsPolloAI/status/2057333580133724593"><b>@itsPolloAI</b></a> · <sub>2,153 views</sub>
 <br/><sub>🎉 Pollo AI × GPT Image 2 × Seedance 2.0 — Results are in.</sub>
 </td>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/c62c2125-a2c4-4e3a-9e99-e6f94124086c" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/SimplyAnnisa/status/2058068924806160785"><b>@SimplyAnnisa</b></a> · <sub>2,026 views</sub>
 <br/><sub>Golden mornings and buttery saltbread bliss</sub>
 </td>
@@ -1530,12 +1530,12 @@ Eine fortlaufende Momentaufnahme von **GPT Image 2 × Seedance 2.0** Arbeiten, d
 
 <table><tr>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/7e1d91f7-0153-4b5d-ac13-ae62da10f517" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/Artedeingenio/status/2057401307510481397"><b>@Artedeingenio</b></a> · <sub>1,479 views</sub>
 <br/><sub>Using Niji to create children’s illustrations, GPT Image 2…</sub>
 </td>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/5a72d57d-f9fb-42a4-8e15-2de535d3b6a8" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/hasamaru_studio/status/2057433716339933656"><b>@hasamaru_studio</b></a> · <sub>1,461 views</sub>
 <br/><sub>GPT Image 2 でショットリストを作成し、 Seedance 2.0 のリファレンス生成で動画を作成しました。</sub>
 </td>
@@ -1545,22 +1545,22 @@ Eine fortlaufende Momentaufnahme von **GPT Image 2 × Seedance 2.0** Arbeiten, d
 
 <table><tr>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/35c556af-1752-4a8a-9965-d1e2314b242e" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/Pixelbunny_ai/status/2051985506414768154"><b>@Pixelbunny_ai</b></a>
 <br/><sub>- Create Stunning AAA quality shorts with leading models -…</sub>
 </td>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/75051d48-988e-4e0d-9cfa-389d821abec8" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/Adam38363368936/status/2051969842748735596"><b>@Adam38363368936</b></a>
 <br/><sub>GPT image 2+Seedance 2</sub>
 </td>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/8241abd7-3b4e-4b62-8dca-24dac31926cc" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/ai_hakase_/status/2051950389063282894"><b>@ai_hakase_</b></a>
 <br/><sub>【AIでNetflix級のUIを爆速生成！GPT Image 2 × Seedance 2.0】 👉   最新のAIを…</sub>
 </td>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/30710ea7-1f06-49b2-ad31-041fa95046c2" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/Hoshimiko_AIart/status/2051947486353433013"><b>@Hoshimiko_AIart</b></a>
 <br/><sub>「見たいアニメに間に合わない……！！」</sub>
 </td>
@@ -1568,22 +1568,22 @@ Eine fortlaufende Momentaufnahme von **GPT Image 2 × Seedance 2.0** Arbeiten, d
 
 <table><tr>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/8315ea16-32ff-4078-8dce-44d4d2c896d9" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/Dheer_Red/status/2051915196185346333"><b>@Dheer_Red</b></a>
 <br/><sub>Seedance 2.0, Veo 3.1, Nano Banana, GPT Image 2—all in one…</sub>
 </td>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/c57c7caf-ab27-4c79-9ca6-b571d7899139" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/NyaiiBubu/status/2051914243193389078"><b>@NyaiiBubu</b></a>
 <br/><sub>AI for UGC modal Rp0 itu nyata 😭</sub>
 </td>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/1899a3a5-da5c-455b-8fa3-d3c3ab830df4" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/apoorvabr/status/2051904397324722349"><b>@apoorvabr</b></a>
 <br/><sub>I like the video concepts of @chrisfirst.</sub>
 </td>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/1718996f-d0e8-4ba8-abef-1d0e725ed22f" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/MaAyyoub/status/2051900019444154376"><b>@MaAyyoub</b></a>
 <br/><sub>Don't ruin a new day by thinking about yesterday.</sub>
 </td>
@@ -1591,45 +1591,45 @@ Eine fortlaufende Momentaufnahme von **GPT Image 2 × Seedance 2.0** Arbeiten, d
 
 <table><tr>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/a7d5b81e-708e-4bb5-9263-7bfb9c6e0d01" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/halne369/status/2051867032333803722"><b>@halne369</b></a>
 <br/><sub>Seedance2.0用の絵コンテ作成のスキルができました！</sub>
 </td>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/4a76e9c0-0171-4b2a-a74d-90f3e59f80e8" width="240" controls></video>
-<br/><a href="https://x.com/RYD232210555420/status/2051847984053469424"><b>@RYD232210555420</b></a>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
+<br/><a href="https://web.archive.org/web/*/https://x.com/RYD232210555420/status/2051847984053469424"><b>@RYD232210555420</b></a>
 <br/><sub>朋友设计的无人驾驶公交车 Sumgo，我帮它做了条 AI 概念宣传片。</sub>
 </td>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/ac2e370f-6986-4ac1-b2ec-9580901d9483" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/Lart_AI/status/2051838590016241772"><b>@Lart_AI</b></a>
 <br/><sub>🎮 Built with GPT Image 2 × Seedance 2.0 on LartAI!</sub>
 </td>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/ad9b0494-b689-4aad-8a50-bcd278110c8b" width="240" controls></video>
-<br/><a href="https://x.com/Jake_Joseph/status/2051774091108155844"><b>@Jake_Joseph</b></a>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
+<br/><a href="https://web.archive.org/web/*/https://x.com/Jake_Joseph/status/2051774091108155844"><b>@Jake_Joseph</b></a>
 <br/><sub>Wait, you can put real screenshots inside AI-generated UGC…</sub>
 </td>
 </tr></table>
 
 <table><tr>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/661be30d-946d-42f6-888c-fc19d8ab6e9d" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/KimAkiyama81/status/2051768139566714958"><b>@KimAkiyama81</b></a>
 <br/><sub>Choreographing a hallway action scene using GPT Image 2 and…</sub>
 </td>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/6735dd89-bc7d-462e-8f5f-69fab82158e7" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/ChangningL29508/status/2051743657980748119"><b>@ChangningL29508</b></a>
 <br/><sub>Use the same storyboard to generate a realistic character r…</sub>
 </td>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/d3d201fc-0813-4d08-aab0-eb0d7a27f708" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/aiseomastery/status/2051733667106734129"><b>@aiseomastery</b></a>
 <br/><sub>THIS AI WORKFLOW TURNS A RAMEN RECIPE INTO A STUNNING ANIME…</sub>
 </td>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/ae6c44a0-8e6a-4ff1-ab1f-99b7aa49af01" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/simplissimus_/status/2051714965485039897"><b>@simplissimus_</b></a>
 <br/><sub>Quer dominar a Força e ver sua própria versão Jedi ganhar v…</sub>
 </td>
@@ -1637,22 +1637,22 @@ Eine fortlaufende Momentaufnahme von **GPT Image 2 × Seedance 2.0** Arbeiten, d
 
 <table><tr>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/67479af0-384f-471f-a8ef-4ee4727289f0" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/azed_ai/status/2051693299376021888"><b>@azed_ai</b></a>
 <br/><sub>Studios sell this as pre-production</sub>
 </td>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/1800bbc0-e6f2-4289-9d41-ef07c15be380" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/fy360593/status/2051686764054790504"><b>@fy360593</b></a>
 <br/><sub>Been seeing a lot of people doing this "Fan cam" content la…</sub>
 </td>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/954dc98f-ab00-4fd5-9106-8671310958ef" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/indrawan_ape/status/2051680370429685963"><b>@indrawan_ape</b></a>
 <br/><sub>GPT Image 2 × Seedance 2.0 on @higgsfield is insane.</sub>
 </td>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/fbf50a8f-459b-47a9-8ab1-3cc89b91d239" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/floopers966/status/2051678374750203983"><b>@floopers966</b></a>
 <br/><sub>また最安値入札ミサイルかよ！</sub>
 </td>
@@ -1660,22 +1660,22 @@ Eine fortlaufende Momentaufnahme von **GPT Image 2 × Seedance 2.0** Arbeiten, d
 
 <table><tr>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/c793c91a-d280-4c2d-b1fd-d64271f467a8" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/Xaroon_x/status/2051656676441293172"><b>@Xaroon_x</b></a>
 <br/><sub>Made with GPT Image 2 + Seedance 2.5 by @yapper_so</sub>
 </td>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/998a71a7-0481-4e93-a717-36295181449c" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/MonetizationDon/status/2051644080803750092"><b>@MonetizationDon</b></a>
 <br/><sub>I decided to create my own Afrobeats Mortal Kombat-style sh…</sub>
 </td>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/eaadef33-8db9-4aad-9c2e-a455fcf896ad" width="240" controls></video>
-<br/><a href="https://x.com/roomA708/status/2051639024574697952"><b>@roomA708</b></a>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
+<br/><a href="https://web.archive.org/web/*/https://x.com/roomA708/status/2051639024574697952"><b>@roomA708</b></a>
 <br/><sub>GPT-Image-2 × Seedance 2.0で、Osmo Pocket 4の“架空CM”を作ってみました。</sub>
 </td>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/6a66e25d-2ae1-469f-896c-3f0593a79f8f" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/vkuoo/status/2051637837951615142"><b>@vkuoo</b></a>
 <br/><sub>Using Midjourney to generate the original images, GPT Image…</sub>
 </td>
@@ -1683,22 +1683,22 @@ Eine fortlaufende Momentaufnahme von **GPT Image 2 × Seedance 2.0** Arbeiten, d
 
 <table><tr>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/b6fdbff6-23c8-4c6e-9642-7c7fca112b35" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/RadineerE10/status/2051622937808318654"><b>@RadineerE10</b></a>
 <br/><sub>「YouMind」が世界最大級の無料AIプロンプトライブラリとして存在感を増している。</sub>
 </td>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/0fc459c5-03bc-4fce-928c-40ff34acf989" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/aivoxyy/status/2051621547518083130"><b>@aivoxyy</b></a>
 <br/><sub>GPT Image 2 + Seedance 2.5 a police chase of new 2026 Chevr…</sub>
 </td>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/ec1de9ac-97a4-4648-bab6-5ae8818377c1" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/aadi29494/status/2051594382437232667"><b>@aadi29494</b></a>
 <br/><sub>Made a LEGO build-process video with GPT Image 2 + Seedance…</sub>
 </td>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/cdb64846-fbfc-4b0f-8a18-9a55552eff87" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/mmarch_ai/status/2051591272918299085"><b>@mmarch_ai</b></a>
 <br/><sub>Con GPT Image 2 dominas la composición: añade textos largos…</sub>
 </td>
@@ -1706,22 +1706,22 @@ Eine fortlaufende Momentaufnahme von **GPT Image 2 × Seedance 2.0** Arbeiten, d
 
 <table><tr>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/c2ca0649-d276-4ae6-9d1f-e68a0907fc20" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/D_studioproject/status/2051580845606191260"><b>@D_studioproject</b></a>
 <br/><sub>How to join a cult with GPT Image 2 x Seedance 2.0 Anime St…</sub>
 </td>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/6f206801-4d40-44a0-971b-3500f7619f1b" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/EgeUymaz/status/2051576423089901874"><b>@EgeUymaz</b></a>
 <br/><sub>Storyboarded with GPT Image 2.</sub>
 </td>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/399714ae-3ac1-4540-b1db-be9320051ee0" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/CurieuxExplorer/status/2051536554691334385"><b>@CurieuxExplorer</b></a>
 <br/><sub>Quiet Growth 🌱</sub>
 </td>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/da772e93-8226-4ac6-aff8-6b9786c861ce" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/josepho/status/2051535229161021618"><b>@josepho</b></a>
 <br/><sub>My new AI minishort, Dance of destruction, based on an old…</sub>
 </td>
@@ -1729,7 +1729,7 @@ Eine fortlaufende Momentaufnahme von **GPT Image 2 × Seedance 2.0** Arbeiten, d
 
 <table><tr>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/acf55ef2-63e7-420a-9d9a-61b97f2165f9" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/iswangwenbin/status/2051528434225234302"><b>@iswangwenbin</b></a>
 <br/><sub>我也来交作业了👇 Hyperframes + Mimo TTS + GPT Image 2 + Seedance 2.5</sub>
 </td>
@@ -1740,22 +1740,22 @@ Eine fortlaufende Momentaufnahme von **GPT Image 2 × Seedance 2.0** Arbeiten, d
 
 <table><tr>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/4fbcf8e4-c509-4ddd-8961-855881b3c2c9" width="240" controls></video>
-<br/><a href="https://x.com/HAL2400AI/status/2050076981702906004"><b>@HAL2400AI</b></a> · <sub>6,721,336 views</sub>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
+<br/><a href="https://web.archive.org/web/*/https://x.com/HAL2400AI/status/2050076981702906004"><b>@HAL2400AI</b></a> · <sub>6,721,336 views</sub>
 <br/><sub>ドンキで爆速品出しするゲームのプレイ映像。</sub>
 </td>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/66649bde-1a17-4ea7-92b9-1b06b5e6a5d8" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/0xbisc/status/2050154597340287143"><b>@0xbisc</b></a> · <sub>224,490 views</sub>
 <br/><sub>Kitchen Hunt</sub>
 </td>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/33ef696a-45ff-4a35-84d3-4ee0c65629cc" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/ElevenCreative/status/2049866735898009836"><b>@ElevenCreative</b></a> · <sub>115,974 views</sub>
 <br/><sub>Create UGC videos in minutes with ElevenCreative.</sub>
 </td>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/3c851335-abd7-46bb-9f44-7e5b4ce44d8b" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/Saccc_c/status/2049769037660360897"><b>@Saccc_c</b></a> · <sub>115,759 views</sub>
 <br/><sub>用 GPT Image 2 + Seedance 2.5，还原了故宫太和殿的建造全过程🤩</sub>
 </td>
@@ -1763,22 +1763,22 @@ Eine fortlaufende Momentaufnahme von **GPT Image 2 × Seedance 2.0** Arbeiten, d
 
 <table><tr>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/d4902050-6912-4ab1-b204-cb373e0eafe3" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/ZaraIrahh/status/2049668274330255388"><b>@ZaraIrahh</b></a> · <sub>55,203 views</sub>
 <br/><sub>Created with Gpt Image 2 + Seedance 2.0 on @SJinn_Agent</sub>
 </td>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/d710c64b-8b05-4848-ae11-16a5ac303416" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/johnAGI168/status/2050190239398781120"><b>@johnAGI168</b></a> · <sub>49,957 views</sub>
 <br/><sub>The future of AI video is here, and it is completely mind-b…</sub>
 </td>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/8da15a4b-4f5e-47c7-a97b-891ef8227b52" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/GumVue/status/2050314912094687425"><b>@GumVue</b></a> · <sub>45,606 views</sub>
 <br/><sub>Create with a Custom GPT  - Short Film Prompt Generator :…</sub>
 </td>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/b78cdad1-5f5c-4309-880d-6efdadf0a18d" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/seiiiiiiiiiiru/status/2049983823308570686"><b>@seiiiiiiiiiiru</b></a> · <sub>41,147 views</sub>
 <br/><sub>Midjourney V8.1 ↓ GPT image 2.0 ↓ Seedance 2.0</sub>
 </td>
@@ -1786,22 +1786,22 @@ Eine fortlaufende Momentaufnahme von **GPT Image 2 × Seedance 2.0** Arbeiten, d
 
 <table><tr>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/6f3b85bc-b409-4c1a-8fdb-325d9d6b0291" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/VORTEX_Promos/status/2049614941812863376"><b>@VORTEX_Promos</b></a> · <sub>40,410 views</sub>
 <br/><sub>TOP 7 INSANE GPT Image 2 x Seedance 2.0 Prompts You Must Try</sub>
 </td>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/3cb1548c-59a8-4e80-8969-759e7f6ff7d9" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/ElCopyMaster/status/2049513235121144002"><b>@ElCopyMaster</b></a> · <sub>39,205 views</sub>
 <br/><sub>Pollo AI acaba de cambiar la creación de anuncios 🤯</sub>
 </td>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/e4dbbfac-0b0c-4fed-a9f3-309da015cc0e" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/4111J_/status/2049817671714443561"><b>@4111J_</b></a> · <sub>31,198 views</sub>
 <br/><sub>What’s in my bag?</sub>
 </td>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/a29e9b73-e176-4e46-9377-22bf5c2d4f89" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/AIwithkhan/status/2049732042695623134"><b>@AIwithkhan</b></a> · <sub>28,965 views</sub>
 <br/><sub>Here we go GPT Image 2 and Seedance 2.0 is now live on @ins…</sub>
 </td>
@@ -1809,22 +1809,22 @@ Eine fortlaufende Momentaufnahme von **GPT Image 2 × Seedance 2.0** Arbeiten, d
 
 <table><tr>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/3e29d94c-a175-4df9-8568-4b0707c5f775" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/rovvmut_/status/2049900959028109567"><b>@rovvmut_</b></a> · <sub>28,036 views</sub>
 <br/><sub>GPT Image 2 and Seedance 2.0 on @insmind_com</sub>
 </td>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/c8919582-b859-4b38-b456-a02683700f1e" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/aimikoda/status/2049589670581874777"><b>@aimikoda</b></a> · <sub>27,837 views</sub>
 <br/><sub>Gpt Image 2 + Seedance 2.0 Trailer Workflow</sub>
 </td>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/aed7449c-40b7-4160-8a6f-2a824b0d95f2" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/HBCoop_/status/2049853870172410026"><b>@HBCoop_</b></a> · <sub>20,844 views</sub>
 <br/><sub>Decided to test myself out in the storyboard workflow.</sub>
 </td>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/028cd6eb-d4cd-4ab3-8484-4d895173d8a6" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/franpradasAI/status/2050168636321440010"><b>@franpradasAI</b></a> · <sub>19,487 views</sub>
 <br/><sub>🚨 NOVEDAD: Un anuncio así cuesta $2M</sub>
 </td>
@@ -1832,22 +1832,22 @@ Eine fortlaufende Momentaufnahme von **GPT Image 2 × Seedance 2.0** Arbeiten, d
 
 <table><tr>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/6fd777ca-b6d9-43b9-a4a4-3b2b41a4fd04" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/john_my07/status/2049524601471074422"><b>@john_my07</b></a> · <sub>19,165 views</sub>
 <br/><sub>Crafted this one by turning a movement sheet as a reference…</sub>
 </td>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/31aef043-4277-4f3e-bcca-d79d6747f9c1" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/MrLarus/status/2050505429529104752"><b>@MrLarus</b></a> · <sub>18,511 views</sub>
 <br/><sub>太飒了！ 🤯用ChatGPT+Seedance生成街头篮球1v1，真实感很强！  运球试探、crossover变向、欧…</sub>
 </td>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/8fad0bd0-251f-4602-9573-4d2b2bdd2c53" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/LaTwitchance/status/2050183976657047764"><b>@LaTwitchance</b></a> · <sub>17,313 views</sub>
 <br/><sub>Une vidéo de gameplay montre un jeu où il faut réapprovisio…</sub>
 </td>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/741ee092-27aa-40b9-959c-0ec5e2944a62" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/Marco_Exito/status/2050219814678098028"><b>@Marco_Exito</b></a> · <sub>14,156 views</sub>
 <br/><sub>💥ÚLTIMA HORA:  ¡GPT-IMAGE-2 y Seedance 2.0 ya están disponi…</sub>
 </td>
@@ -1855,22 +1855,22 @@ Eine fortlaufende Momentaufnahme von **GPT Image 2 × Seedance 2.0** Arbeiten, d
 
 <table><tr>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/a410a383-9744-4f1f-8ba6-92eba2cdbec4" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/JoyLi629/status/2049740242085667272"><b>@JoyLi629</b></a> · <sub>13,056 views</sub>
 <br/><sub>GPT image2 + Seedance 2.0 做产品爆炸视频💥太香了</sub>
 </td>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/a6b9b482-32fa-41e7-bfb2-f97b2cf46722" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/doctorwasif/status/2050244639253569886"><b>@doctorwasif</b></a> · <sub>12,897 views</sub>
 <br/><sub>Chatgpt GPT-2 & Seedance 2 on @yapper_so</sub>
 </td>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/c00ed740-192d-4d5b-a981-a6664c9bce07" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/code_bykuti/status/2049852139112182181"><b>@code_bykuti</b></a> · <sub>10,592 views</sub>
 <br/><sub>We’re not generating images anymore…</sub>
 </td>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/af52163e-dab5-4c14-8531-c3e9f4fcf2d8" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/igus_ai/status/2049527468143329284"><b>@igus_ai</b></a> · <sub>9,010 views</sub>
 <br/><sub>Ahora puedes crear wallpapers de cualquier jugador o equipo…</sub>
 </td>
@@ -1878,45 +1878,45 @@ Eine fortlaufende Momentaufnahme von **GPT Image 2 × Seedance 2.0** Arbeiten, d
 
 <table><tr>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/98001464-cbf5-4dd8-8161-a8d7a86d0afd" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/Diplomeme/status/2049752171474993460"><b>@Diplomeme</b></a> · <sub>8,011 views</sub>
 <br/><sub>Makeup tutorial (ft.</sub>
 </td>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/e14db781-59cf-4ad2-8cbc-41fa99bbbebc" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/XMonetizationC_/status/2049527585269551150"><b>@XMonetizationC_</b></a> · <sub>7,509 views</sub>
 <br/><sub>GRWM (ft.</sub>
 </td>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/0b0e902b-325e-42e5-98f1-57177f73124e" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/nrqa__/status/2049836461755949357"><b>@nrqa__</b></a> · <sub>7,319 views</sub>
 <br/><sub>GPT-IMAGE-2 &amp; Seedance 2.0 is now officially available…</sub>
 </td>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/acba4f2e-b8aa-47ea-8a08-e05d44523d45" width="240" controls></video>
-<br/><a href="https://x.com/IqraSaifiii/status/2049845664880955862"><b>@IqraSaifiii</b></a> · <sub>7,004 views</sub>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
+<br/><a href="https://web.archive.org/web/*/https://x.com/IqraSaifiii/status/2049845664880955862"><b>@IqraSaifiii</b></a> · <sub>7,004 views</sub>
 <br/><sub>Create your own Influencer live stream 🔥</sub>
 </td>
 </tr></table>
 
 <table><tr>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/f952740e-5a89-442e-a45a-38fd496acdef" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/IntLab0000/status/2050227050502639625"><b>@IntLab0000</b></a> · <sub>6,444 views</sub>
 <br/><sub>【Seedance 2.0でSora2を目指すテスト】Seedanceに直接長文のプロンプトで依頼する代わりに、gpt…</sub>
 </td>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/ef66fa7a-c595-4b42-88e0-bd81464caa6b" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/weiinberg/status/2049867302309707927"><b>@weiinberg</b></a> · <sub>6,126 views</sub>
 <br/><sub>GPT Image 2 x Seedance 2.0 on @insmind_com</sub>
 </td>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/c21ebea6-629e-494c-b8ea-b8fb5b6b2d87" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/angeldot_/status/2049528144256737579"><b>@angeldot_</b></a> · <sub>6,114 views</sub>
 <br/><sub>Puedes crear wallpapers animados como este en segundos</sub>
 </td>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/9c0fcc5d-b76e-4b6d-b123-9d65837b1263" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/Just_sharon7/status/2050430486548447502"><b>@Just_sharon7</b></a> · <sub>6,084 views</sub>
 <br/><sub>Are you ready to buy this necklace??</sub>
 </td>
@@ -1924,22 +1924,22 @@ Eine fortlaufende Momentaufnahme von **GPT Image 2 × Seedance 2.0** Arbeiten, d
 
 <table><tr>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/f4171c4c-923a-4af1-aeb2-11ec47174f17" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/Sheldon056/status/2049832802078838857"><b>@Sheldon056</b></a> · <sub>5,910 views</sub>
 <br/><sub>GPT Image 2 and Seedance 2.0 are now live on @insmind_com</sub>
 </td>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/bc924494-934c-4175-a32d-8b8ef66fc07e" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/nicos_ai/status/2049526583212327013"><b>@nicos_ai</b></a> · <sub>5,776 views</sub>
 <br/><sub>Ahora puedes crear Wallpapers animados en segundos</sub>
 </td>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/1e2860b3-802e-4d5d-953d-a81c1e5e8d03" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/promptsref/status/2050489527475507706"><b>@promptsref</b></a> · <sub>5,635 views</sub>
 <br/><sub>Create a short film like this in just 1 minute with GPT Ima…</sub>
 </td>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/7205e175-7e35-44a2-9b3e-3e0d65e0ca72" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/AIwithSynthia/status/2049818475846332898"><b>@AIwithSynthia</b></a> · <sub>5,248 views</sub>
 <br/><sub>Excited to inform you that GPT Image 2 and Seedance 2.0 are…</sub>
 </td>
@@ -1947,22 +1947,22 @@ Eine fortlaufende Momentaufnahme von **GPT Image 2 × Seedance 2.0** Arbeiten, d
 
 <table><tr>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/b6a422ee-1bf8-4098-b463-b393c2d449f5" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/wanerfu/status/2050457318194815166"><b>@wanerfu</b></a> · <sub>5,165 views</sub>
 <br/><sub>我用动作参考图来制作舞蹈动画，使用了 Seedance 2.0 + GPT Image 2.0</sub>
 </td>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/dcec0956-895f-4ab8-80e8-889f4efb2e7f" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/FinanceYF5/status/2049672873888116956"><b>@FinanceYF5</b></a> · <sub>4,039 views</sub>
 <br/><sub>有人用 GPT Image 2 × Seedance 2.0 在 OpenArt 上制作一支万宝路广告。</sub>
 </td>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/31ffd0f8-273c-460b-acd3-3e3fea5ef3fc" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/meng_dagg695/status/2049739564630307176"><b>@meng_dagg695</b></a> · <sub>3,885 views</sub>
 <br/><sub>GPT image 2 × Seedance 2.0 combo 🔥 on @yapper_so</sub>
 </td>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/9d4a97cf-c95b-495b-bf62-34b8b95c6d4b" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/AI_Arabic1/status/2049534174646940051"><b>@AI_Arabic1</b></a> · <sub>3,867 views</sub>
 <br/><sub>شوفوا الإبداع 😱!!</sub>
 </td>
@@ -1970,22 +1970,22 @@ Eine fortlaufende Momentaufnahme von **GPT Image 2 × Seedance 2.0** Arbeiten, d
 
 <table><tr>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/fc83dd63-3809-47e9-9578-c97f235327f2" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/AIwithSarah_/status/2049838433582067838"><b>@AIwithSarah_</b></a> · <sub>3,566 views</sub>
 <br/><sub>GPT Image 2 and Seedance 2.0 is now available on @insmind_c…</sub>
 </td>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/af16374f-c77b-4929-9ede-9ea6f15551ed" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/MatiasSchrank/status/2050185710561276382"><b>@MatiasSchrank</b></a> · <sub>3,564 views</sub>
 <br/><sub>Así lo hice con Smart Shot de @openart_ai:</sub>
 </td>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/04043531-d981-4798-ade7-87e1bcd70144" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/ivnways/status/2050149994691523033"><b>@ivnways</b></a> · <sub>3,303 views</sub>
 <br/><sub>ÚLTIMA HORA: ¡GPT-IMAGE-2 y Seedance 2.0 ya disponibles gra…</sub>
 </td>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/a7734353-2509-4b77-96cc-6b42e6fd4699" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/SwayamShrma/status/2049970629450088960"><b>@SwayamShrma</b></a> · <sub>2,908 views</sub>
 <br/><sub>From rough Idea to short film just by using a workflow that…</sub>
 </td>
@@ -1993,22 +1993,22 @@ Eine fortlaufende Momentaufnahme von **GPT Image 2 × Seedance 2.0** Arbeiten, d
 
 <table><tr>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/fd1436bc-ebaf-4706-82d7-7ee4e5056963" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/Alex_Inspira/status/2050210855242084796"><b>@Alex_Inspira</b></a> · <sub>2,888 views</sub>
 <br/><sub>Así es exactamente como lo hice.</sub>
 </td>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/7f246962-7346-4e52-9049-6f7cc31e1f3f" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/oggii_0/status/2049859002398556580"><b>@oggii_0</b></a> · <sub>2,655 views</sub>
 <br/><sub>I tested a full AI food commercial workflow using ONE promp…</sub>
 </td>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/3dcc955f-6441-4c57-bf77-371c5d51ebb7" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/Ciri_ai/status/2049861486575747436"><b>@Ciri_ai</b></a> · <sub>2,603 views</sub>
 <br/><sub>One prompt → full cinematic sequence all generated inside @…</sub>
 </td>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/fa0834a6-a585-492a-b92f-22ed8e9d155b" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/Taaruk_/status/2049702491768684839"><b>@Taaruk_</b></a> · <sub>2,485 views</sub>
 <br/><sub>GPT IMAGE 2 + seedance 2.0</sub>
 </td>
@@ -2016,22 +2016,22 @@ Eine fortlaufende Momentaufnahme von **GPT Image 2 × Seedance 2.0** Arbeiten, d
 
 <table><tr>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/27c79a49-058b-45d9-ae76-8bb9d0612571" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/noahsolomon/status/2050145785891914119"><b>@noahsolomon</b></a> · <sub>2,477 views</sub>
 <br/><sub>I love using fal to make developing fal easier.</sub>
 </td>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/043c67b9-c0a6-450e-a061-0173ddde350b" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/harboriis/status/2050083212664426882"><b>@harboriis</b></a> · <sub>2,389 views</sub>
 <br/><sub>A complete dance sequence mapped frame by frame</sub>
 </td>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/8f1842af-4ea2-46a5-9719-64aafc14d512" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/techyoutbe/status/2049819747597029627"><b>@techyoutbe</b></a> · <sub>2,354 views</sub>
 <br/><sub>One workspace.</sub>
 </td>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/e6b408d1-888f-47d5-bb70-2aa4d041d666" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/ZetoGroovin/status/2050176480861094147"><b>@ZetoGroovin</b></a> · <sub>2,298 views</sub>
 <br/><sub>『神降ろし』- AI MUSIC VIDEO - 和の雰囲気の曲と映像でMV作ってみました。</sub>
 </td>
@@ -2039,22 +2039,22 @@ Eine fortlaufende Momentaufnahme von **GPT Image 2 × Seedance 2.0** Arbeiten, d
 
 <table><tr>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/dd6544dc-4107-4bd1-a7ea-35e6bf23f0a0" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/0xtonixie/status/2050449563773981106"><b>@0xtonixie</b></a> · <sub>2,165 views</sub>
 <br/><sub>GPT的images2 ＋seedance2.0绝对是制作AI漫剧的最佳组合：</sub>
 </td>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/49846a04-64a8-4bff-bac8-b193f62256d3" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/iamrealsnow/status/2049770674886152232"><b>@iamrealsnow</b></a> · <sub>1,764 views</sub>
 <br/><sub>GRWM (Male Minimal Editorial) Using GPT image 2.0 + Seedanc…</sub>
 </td>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/26160c30-a15b-4de8-b946-df6573d70c0d" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/budgetpixel/status/2049684059278676332"><b>@budgetpixel</b></a> · <sub>1,754 views</sub>
 <br/><sub>GPT Image 2.0 + Seedance 2.0 = a powerful dance workflow</sub>
 </td>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/f070db63-ea05-41bb-8b55-9f697ab6844a" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/0kncn/status/2050264466852368557"><b>@0kncn</b></a> · <sub>1,720 views</sub>
 <br/><sub>Tesla vs Einstein Tekken evreninde</sub>
 </td>
@@ -2062,22 +2062,22 @@ Eine fortlaufende Momentaufnahme von **GPT Image 2 × Seedance 2.0** Arbeiten, d
 
 <table><tr>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/1ff92c6d-0131-4147-840b-82322df72bb7" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/iX00AI/status/2050356236814885066"><b>@iX00AI</b></a> · <sub>1,673 views</sub>
 <br/><sub>実際の流れ👇  1文入力 → Shot Plan（設計図）生成 → そのまま映像生成  プロンプトの工夫も編集も不要。…</sub>
 </td>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/b57613c4-0838-410c-9a33-785b6002b34e" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/ashen_one/status/2049601589573292154"><b>@ashen_one</b></a> · <sub>1,608 views</sub>
 <br/><sub>GPT 2.0 + Seedance 2.0 = Brand Goldmine</sub>
 </td>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/92da6dee-b575-4ba9-a405-d94a3572b18f" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/obrunookamoto/status/2050156722086461498"><b>@obrunookamoto</b></a> · <sub>1,338 views</sub>
 <br/><sub>A Higgsfield conectou 30+ modelos de geração de imagem e ví…</sub>
 </td>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/6a4f6292-f7fe-4a20-a6f1-4eee47e5ccad" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/Kashberg_0/status/2050117126397329698"><b>@Kashberg_0</b></a> · <sub>1,291 views</sub>
 <br/><sub>GPT IMAGE 2 and Seedance 2.0</sub>
 </td>
@@ -2085,22 +2085,22 @@ Eine fortlaufende Momentaufnahme von **GPT Image 2 × Seedance 2.0** Arbeiten, d
 
 <table><tr>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/ed99f828-225c-4b28-a667-879290c4838a" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/sara4ai/status/2050189053979496926"><b>@sara4ai</b></a> · <sub>1,229 views</sub>
 <br/><sub>مرحبا يا أصدقاء  خلال هذا الأسبوع لاحظت أعمالًا مبهرة باستخ…</sub>
 </td>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/9718f4a9-8466-4622-af0a-03788c2b27ae" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/bmx_ai13/status/2050432594647642414"><b>@bmx_ai13</b></a> · <sub>1,220 views</sub>
 <br/><sub>A super simple workflow: 2 character images → GPT Image 2.0…</sub>
 </td>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/14da241f-97fb-4162-ad1c-77e54ab3c29c" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/ChillaiKalan__/status/2049833865825632522"><b>@ChillaiKalan__</b></a> · <sub>1,196 views</sub>
 <br/><sub>GPT Image 2 and Seedance 2.0 on @insmind_com</sub>
 </td>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/ab068907-e9b7-4762-846e-2d0ca3adb48d" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/suji_pop/status/2050135943294878035"><b>@suji_pop</b></a> · <sub>1,173 views</sub>
 <br/><sub>Subway Surfer in a post apocalyptic world, with the graphic…</sub>
 </td>
@@ -2108,22 +2108,22 @@ Eine fortlaufende Momentaufnahme von **GPT Image 2 × Seedance 2.0** Arbeiten, d
 
 <table><tr>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/5207f874-d9a2-47c2-afe9-6c0b07b87e47" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/densancar/status/2050210215237173629"><b>@densancar</b></a> · <sub>1,148 views</sub>
 <br/><sub>Claude Code + GPT 2 + Seedance 2.0 Makes VIRAL AI UGC Videos</sub>
 </td>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/681faaa8-d52f-427d-b192-b4ac8b12ebc0" width="240" controls></video>
-<br/><a href="https://x.com/nexudotio/status/2049775355586576758"><b>@nexudotio</b></a> · <sub>1,128 views</sub>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
+<br/><a href="https://web.archive.org/web/*/https://x.com/nexudotio/status/2049775355586576758"><b>@nexudotio</b></a> · <sub>1,128 views</sub>
 <br/><sub>Open Design now ships images AND videos.</sub>
 </td>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/a9a2a2e0-ab3f-45e1-8eeb-903c2e72bccf" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/OiiOii_AI/status/2049777567193043420"><b>@OiiOii_AI</b></a> · <sub>1,108 views</sub>
 <br/><sub>OiiOiiで、話題のプロンプトを GPT Image 2 × Seedance 2.0 で試してみました。</sub>
 </td>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/70b7d00f-a84a-4b96-b53f-9ffc3cf25a67" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/QingQ77/status/2050201770320949363"><b>@QingQ77</b></a> · <sub>1,051 views</sub>
 <br/><sub>cool 使用 GPT Image 2 + Seedance 2.5 创建游戏界面的视频动画</sub>
 </td>
@@ -2131,12 +2131,12 @@ Eine fortlaufende Momentaufnahme von **GPT Image 2 × Seedance 2.0** Arbeiten, d
 
 <table><tr>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/d9a22507-f0b6-4186-886c-33129a23d651" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/Parul_Gautam7/status/2050184972942946328"><b>@Parul_Gautam7</b></a> · <sub>1,044 views</sub>
 <br/><sub>Here’s how it actually works.</sub>
 </td>
 <td align="center" valign="top" width="25%">
-<video src="https://github.com/user-attachments/assets/a77e53bb-5764-4fd7-b44e-82b369195a83" width="240" controls></video>
+<em>Preview unavailable: original GitHub attachment is no longer publicly accessible.</em>
 <br/><a href="https://x.com/joshesye/status/2049715911838355739"><b>@joshesye</b></a> · <sub>1,020 views</sub>
 <br/><sub>茶叶品牌 TVC《一口春山》</sub>
 </td>
@@ -2249,10 +2249,8 @@ Step 3: Add your Seedance prompt → generate
 Dieses Repository wurde von herausragenden offenen Workflow-Sammlungen und von der Community geteilten Experimenten inspiriert.
 
 Vielen Dank an die Creator und Mitwirkenden, die ihre Arbeit öffentlich geteilt und diese Fallstudien ermöglicht haben:
-[@szounft](https://x.com/szounft) · [@Toshi_nyaruo_AI](https://x.com/Toshi_nyaruo_AI) · [@ponyodong](https://x.com/ponyodong) · [@servasyy_ai](https://x.com/servasyy_ai) · [@YaReYaRu30Life](https://x.com/YaReYaRu30Life) · [@fukaborichannel](https://x.com/fukaborichannel) · [@Shin_Engineer](https://x.com/Shin_Engineer) · [@ai_mitosan](https://x.com/ai_mitosan) · [@kiyoshi_shin](https://x.com/kiyoshi_shin) · [@AbleGPT](https://x.com/AbleGPT) · [@patata1216](https://x.com/patata1216) · [@peter6759](https://x.com/peter6759) · [@hibi_ai__](https://x.com/hibi_ai__) · [@heygentlewhale](https://x.com/heygentlewhale) · [@ai_gezgini](https://x.com/ai_gezgini) · [@Tz_2022](https://x.com/Tz_2022) · [@old_pgmrs_will](https://x.com/old_pgmrs_will) · [@0xbisc](https://x.com/0xbisc) · [@Iancu_ai](https://x.com/Iancu_ai) · [@Jake_Joseph](https://x.com/Jake_Joseph) · [@venturetwins](https://x.com/venturetwins) · [@0xInk_](https://x.com/0xInk_) · [@markgadala](https://x.com/markgadala) · [@Ankit_patel211](https://x.com/Ankit_patel211) · [@Ciri_ai](https://x.com/Ciri_ai) · [@nimentrix](https://x.com/nimentrix) · [@insmind_com](https://x.com/insmind_com) · [@kingofdairyque](https://x.com/kingofdairyque) · [@Kashberg_0](https://x.com/Kashberg_0) · [@airina_xyz](https://x.com/airina_xyz) · [@CoffeeVectors](https://x.com/CoffeeVectors) · [@mdmadeit](https://x.com/mdmadeit) · [@Morph_VGart](https://x.com/Morph_VGart) · [@MEnesKirca](https://x.com/MEnesKirca) · [@MrLarus](https://x.com/MrLarus) · [@AYi_AInotes](https://x.com/AYi_AInotes) · [@8fstudioz](https://x.com/8fstudioz) · [@_DAntunes_](https://x.com/_DAntunes_) · [@promptsref](https://x.com/promptsref) · [@Just_sharon7](https://x.com/Just_sharon7) · [@wanerfu](https://x.com/wanerfu) · [@AIwithkhan](https://x.com/AIwithkhan) · [@0xtonixie](https://x.com/0xtonixie) · [@doctorwasif](https://x.com/doctorwasif) · [@HAL2400AI](https://x.com/HAL2400AI) · [@bmx_ai13](https://x.com/bmx_ai13) · [@ZaraIrahh](https://x.com/ZaraIrahh) · [@iX00AI](https://x.com/iX00AI) · [@GumVue](https://x.com/GumVue) · [@adriansolarzz](https://x.com/adriansolarzz) · [@0kncn](https://x.com/0kncn) · [@john_my07](https://x.com/john_my07) · [@XMonetizationC_](https://x.com/XMonetizationC_) · [@harboriis](https://x.com/harboriis) · [@IntLab0000](https://x.com/IntLab0000) · [@Marco_Exito](https://x.com/Marco_Exito) · [@Alex_Inspira](https://x.com/Alex_Inspira) · [@densancar](https://x.com/densancar) · [@QingQ77](https://x.com/QingQ77) · [@johnAGI168](https://x.com/johnAGI168) · [@sara4ai](https://x.com/sara4ai) · [@MatiasSchrank](https://x.com/MatiasSchrank) · [@Parul_Gautam7](https://x.com/Parul_Gautam7) · [@LaTwitchance](https://x.com/LaTwitchance) · [@ZetoGroovin](https://x.com/ZetoGroovin) · [@franpradasAI](https://x.com/franpradasAI) · [@obrunookamoto](https://x.com/obrunookamoto) · [@ivnways](https://x.com/ivnways) · [@noahsolomon](https://x.com/noahsolomon) · [@OiiOii_AI](https://x.com/OiiOii_AI) · [@suji_pop](https://x.com/suji_pop) · [@SuguruKun_ai](https://x.com/SuguruKun_ai) · [@aimikoda](https://x.com/aimikoda) · [@seiiiiiiiiiiru](https://x.com/seiiiiiiiiiiru) · [@SwayamShrma](https://x.com/SwayamShrma) · [@IqraSaifiii](https://x.com/IqraSaifiii) · [@rovvmut_](https://x.com/rovvmut_) · [@ashen_one](https://x.com/ashen_one) · [@weiinberg](https://x.com/weiinberg) · [@ElevenCreative](https://x.com/ElevenCreative) · [@SunNeverSetsX](https://x.com/SunNeverSetsX) · [@oggii_0](https://x.com/oggii_0) · [@HBCoop_](https://x.com/HBCoop_) · [@code_bykuti](https://x.com/code_bykuti) · [@AIwithSarah_](https://x.com/AIwithSarah_) · [@nrqa__](https://x.com/nrqa__) · [@ChillaiKalan__](https://x.com/ChillaiKalan__) · [@Sheldon056](https://x.com/Sheldon056) · [@techyoutbe](https://x.com/techyoutbe) · [@AIwithSynthia](https://x.com/AIwithSynthia) · [@4111J_](https://x.com/4111J_) · [@hrrcnes](https://x.com/hrrcnes) · [@nexudotio](https://x.com/nexudotio) · [@iamrealsnow](https://x.com/iamrealsnow) · [@Saccc_c](https://x.com/Saccc_c) · [@Raul_IA_Prod](https://x.com/Raul_IA_Prod) · [@Diplomeme](https://x.com/Diplomeme) · [@JoyLi629](https://x.com/JoyLi629) · [@meng_dagg695](https://x.com/meng_dagg695) · [@bindureddy](https://x.com/bindureddy) · [@FinanceYF5](https://x.com/FinanceYF5) · [@joshesye](https://x.com/joshesye) · [@Taaruk_](https://x.com/Taaruk_) · [@budgetpixel](https://x.com/budgetpixel) · [@VORTEX_Promos](https://x.com/VORTEX_Promos) · [@AI_Arabic1](https://x.com/AI_Arabic1) · [@angeldot_](https://x.com/angeldot_) · [@igus_ai](https://x.com/igus_ai) · [@nicos_ai](https://x.com/nicos_ai) · [@ElCopyMaster](https://x.com/ElCopyMaster)
+[@szounft](https://x.com/szounft) · [@Toshi_nyaruo_AI](https://x.com/Toshi_nyaruo_AI) · [@ponyodong](https://x.com/ponyodong) · [@servasyy_ai](https://x.com/servasyy_ai) · [@YaReYaRu30Life](https://x.com/YaReYaRu30Life) · [@fukaborichannel](https://x.com/fukaborichannel) · [@Shin_Engineer](https://x.com/Shin_Engineer) · [@ai_mitosan](https://x.com/ai_mitosan) · [@kiyoshi_shin](https://x.com/kiyoshi_shin) · [@AbleGPT](https://x.com/AbleGPT) · [@patata1216](https://x.com/patata1216) · [@peter6759](https://x.com/peter6759) · [@hibi_ai__](https://x.com/hibi_ai__) · [@heygentlewhale](https://x.com/heygentlewhale) · [@ai_gezgini](https://x.com/ai_gezgini) · [@Tz_2022](https://x.com/Tz_2022) · [@old_pgmrs_will](https://x.com/old_pgmrs_will) · [@0xbisc](https://x.com/0xbisc) · [@Iancu_ai](https://x.com/Iancu_ai) · [@Jake_Joseph](https://x.com/Jake_Joseph) · [@venturetwins](https://x.com/venturetwins) · [@0xInk_](https://x.com/0xInk_) · [@markgadala](https://x.com/markgadala) · [@Ankit_patel211](https://x.com/Ankit_patel211) · [@Ciri_ai](https://x.com/Ciri_ai) · [@nimentrix](https://x.com/nimentrix) · [@insmind_com](https://x.com/insmind_com) · [@kingofdairyque](https://x.com/kingofdairyque) · [@Kashberg_0](https://x.com/Kashberg_0) · [@airina_xyz](https://x.com/airina_xyz) · [@CoffeeVectors](https://x.com/CoffeeVectors) · [@mdmadeit](https://x.com/mdmadeit) · [@Morph_VGart](https://x.com/Morph_VGart) · [@MEnesKirca](https://x.com/MEnesKirca) · [@MrLarus](https://x.com/MrLarus) · [@AYi_AInotes](https://x.com/AYi_AInotes) · [@8fstudioz](https://x.com/8fstudioz) · [@_DAntunes_](https://x.com/_DAntunes_) · [@promptsref](https://x.com/promptsref) · [@Just_sharon7](https://x.com/Just_sharon7) · [@wanerfu](https://x.com/wanerfu) · [@AIwithkhan](https://x.com/AIwithkhan) · [@0xtonixie](https://x.com/0xtonixie) · [@doctorwasif](https://x.com/doctorwasif) · [@HAL2400AI](https://web.archive.org/web/*/https://x.com/HAL2400AI) · [@bmx_ai13](https://x.com/bmx_ai13) · [@ZaraIrahh](https://x.com/ZaraIrahh) · [@iX00AI](https://x.com/iX00AI) · [@GumVue](https://x.com/GumVue) · [@adriansolarzz](https://x.com/adriansolarzz) · [@0kncn](https://x.com/0kncn) · [@john_my07](https://x.com/john_my07) · [@XMonetizationC_](https://x.com/XMonetizationC_) · [@harboriis](https://x.com/harboriis) · [@IntLab0000](https://x.com/IntLab0000) · [@Marco_Exito](https://x.com/Marco_Exito) · [@Alex_Inspira](https://x.com/Alex_Inspira) · [@densancar](https://x.com/densancar) · [@QingQ77](https://x.com/QingQ77) · [@johnAGI168](https://x.com/johnAGI168) · [@sara4ai](https://x.com/sara4ai) · [@MatiasSchrank](https://x.com/MatiasSchrank) · [@Parul_Gautam7](https://x.com/Parul_Gautam7) · [@LaTwitchance](https://x.com/LaTwitchance) · [@ZetoGroovin](https://x.com/ZetoGroovin) · [@franpradasAI](https://x.com/franpradasAI) · [@obrunookamoto](https://x.com/obrunookamoto) · [@ivnways](https://x.com/ivnways) · [@noahsolomon](https://x.com/noahsolomon) · [@OiiOii_AI](https://x.com/OiiOii_AI) · [@suji_pop](https://x.com/suji_pop) · [@SuguruKun_ai](https://x.com/SuguruKun_ai) · [@aimikoda](https://x.com/aimikoda) · [@seiiiiiiiiiiru](https://x.com/seiiiiiiiiiiru) · [@SwayamShrma](https://x.com/SwayamShrma) · [@IqraSaifiii](https://web.archive.org/web/*/https://x.com/IqraSaifiii) · [@rovvmut_](https://x.com/rovvmut_) · [@ashen_one](https://x.com/ashen_one) · [@weiinberg](https://x.com/weiinberg) · [@ElevenCreative](https://x.com/ElevenCreative) · [@SunNeverSetsX](https://x.com/SunNeverSetsX) · [@oggii_0](https://x.com/oggii_0) · [@HBCoop_](https://x.com/HBCoop_) · [@code_bykuti](https://x.com/code_bykuti) · [@AIwithSarah_](https://x.com/AIwithSarah_) · [@nrqa__](https://x.com/nrqa__) · [@ChillaiKalan__](https://x.com/ChillaiKalan__) · [@Sheldon056](https://x.com/Sheldon056) · [@techyoutbe](https://x.com/techyoutbe) · [@AIwithSynthia](https://x.com/AIwithSynthia) · [@4111J_](https://x.com/4111J_) · [@hrrcnes](https://x.com/hrrcnes) · [@nexudotio](https://web.archive.org/web/*/https://x.com/nexudotio) · [@iamrealsnow](https://x.com/iamrealsnow) · [@Saccc_c](https://x.com/Saccc_c) · [@Raul_IA_Prod](https://x.com/Raul_IA_Prod) · [@Diplomeme](https://x.com/Diplomeme) · [@JoyLi629](https://x.com/JoyLi629) · [@meng_dagg695](https://x.com/meng_dagg695) · [@bindureddy](https://x.com/bindureddy) · [@FinanceYF5](https://x.com/FinanceYF5) · [@joshesye](https://x.com/joshesye) · [@Taaruk_](https://x.com/Taaruk_) · [@budgetpixel](https://x.com/budgetpixel) · [@VORTEX_Promos](https://x.com/VORTEX_Promos) · [@AI_Arabic1](https://x.com/AI_Arabic1) · [@angeldot_](https://x.com/angeldot_) · [@igus_ai](https://x.com/igus_ai) · [@nicos_ai](https://x.com/nicos_ai) · [@ElCopyMaster](https://x.com/ElCopyMaster)
 
 *Wir können nicht garantieren, dass jeder Fall dem ursprünglichen Creator zugeordnet ist. Falls etwas korrigiert werden muss, kontaktiere uns bitte und wir werden es aktualisieren.*
 
 Wenn du weitere interessante Workflow-Fälle teilen möchtest, melde dich gerne und hilf uns, die Evolink-Workflow-Bibliothek zu erweitern.
-
-[![Star History Chart](https://api.star-history.com/svg?repos=EvoLinkAI/GPT-Image-2-Seedance-2.5-Workflow&type=Date)](https://www.star-history.com/#EvoLinkAI/GPT-Image-2-Seedance-2.5-Workflow&Date)
